@@ -1,7 +1,9 @@
 # MyUSBDownloader
 基于USB的离线固件更新器
 
-滑动UI测试：https://www.bilibili.com/video/BV1m3411C7Za?spm_id_from=333.999.0.0
+滑动UI测试：https://www.bilibili.com/video/BV1m3411C7Za
+
+离线下载功能测试：https://www.bilibili.com/video/BV1UL411M7vd
 
 ![TIM截图20211106104055](https://user-images.githubusercontent.com/23308519/140595217-0ed3e551-dace-4f39-9003-48ba1a141ef5.jpg)
 
